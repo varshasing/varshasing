@@ -2,8 +2,8 @@
 
 ## ✨ Passionate about making an inspiring difference in the world with **hardware and software solutions** and by leveraging **machine learning**  
 - 🎓 I am a Junior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration)
-- 🌱 I’m currently taking four gradute-level courses: Deep Learning, High Performance Programming, Cybersecurity, and Embedded Systems
-- 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, Software Engineering, Computer Organization, Signals and Systems, Operating Systems, and Molecular Cell Biology and Biotechnology
+- 🌱 I’m currently taking Deep Learning, High Performance Programming, Cybersecurity, and Embedded Systems
+- 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, Intro to Software Engineering, Computer Organization, Signals and Systems, Operating Systems, Electrical Circuits, Machine Learning, and Molecular Cell Biology and Biotechnology
 - ⚙️ A fun fact about me is that it is my life goal to help one billion people. This is what drives me every day!
  
 ## 🛠️ Tech Stack  
