@@ -6,10 +6,10 @@
 - ⚙️ My driving force? Creating tech that impacts a billion lives.
 
 ## What I'm Currently Working On
-- **Implementing and Optimizing Ray Tracing in C++**
-- **Exploiting Vulnerabilities in LLMs: A Study on Prompt Injections & Jailbreaking**
-- **Remote-Controlled Scouting Buggy with Live Camera Feed and GUI Control**
-- **Speech to Emotion Recognition Model**
+- **[Implementing and Optimizing Ray Tracing in C++](https://github.com/EC527JilinZhengVarshaSingh/super-raytrace)**
+- **[Exploiting Vulnerabilities in LLMs: A Study on Prompt Injections & Jailbreaking](https://github.com/pzhao123/PAIR)**
+- **[Remote-Controlled Scouting Quadruped with Live Camera Feed and GUI Control](https://github.com/varshasing/ec535-final-project)**
+- **[Speech to Emotion Recognition Model](https://github.com/Anish701/EC523-Speech-Emotion-Recognition)**
  
 ## 🛠️ Tech Stack  
 💻 **Languages:** C, C++, Python, Verilog, MATLAB, Java, JavaScript  
@@ -24,7 +24,7 @@
 
 ## 🎓 Work Experience  
 🔬 **Research Assistant (Sharifzadeh Lab, UROP)** – Automating molecule conductivity analysis using Python & Cryo-EM models.  
-📚 **Teaching Assistant (Boston University)** – Applied Algorithms and Data Structures (Fall '24 & *Fall '25*), Embedded Systems (*Fall '25*), Computer Organization (Spring '25), Machine Learning (Spring '25), Introduction to Programming + Programming for Engineers (Fall '23 - Spring '24)  
+📚 **Teaching Assistant (Boston University)** – Applied Algorithms and Data Structures (ENG EC330; Fall '24 & *Fall '25*), Embedded Systems (ENG EC535; *Fall '25*), Computer Organization (ENG EC413; Spring '25), Machine Learning (ENG EC414; Spring '25), Introduction to Programming + Programming for Engineers (ENG EC121/122; Fall '23 - Spring '24)  
 🖥️ **Incoming SWE Technology Intern @ Broadridge Financial Solutions - Summer 2025**
 
 ## 📫 Let's Connect!  
