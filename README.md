@@ -1,9 +1,8 @@
 # 👋 Hi, I’m @varshasing!
 
-- 🎓 Junior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration)
-- 🌱 I’m currently taking courses in Deep Learning, High Performance Programming, Cybersecurity, and Embedded Systems
-- 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, Intro to Software Engineering, Computer Organization, Signals and Systems, Operating Systems, Electrical Circuits, Machine Learning, and Molecular Cell Biology and Biotechnology
-- ⚙️ My driving force? Creating tech that impacts a billion lives.
+- 🎓 Rising Senior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration)
+- 🌱 I'll be taking courses in Cloud Computing, Device Diagnostics and Design, Computational Biology, and Neurotechnology Devices this Fall!
+- 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, High Performance Programming, Embedded Systems, Computer Organization, Operating Systems, Deep Learning, Cybersecurity, Signals and Systems, Electrical Circuits, Machine Learning, and Molecular Cell Biology and Biotechnology
 
 ## What I'm Currently Working On
 - **[Implementing and Optimizing Ray Tracing in C++](https://github.com/EC527JilinZhengVarshaSingh/super-raytrace)**
