@@ -4,7 +4,7 @@
 - 🌱 I'll be taking courses in Cloud Computing, Device Diagnostics and Design, Computational Biology, and Neurotechnology Devices this Fall!
 - 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, High Performance Programming, Embedded Systems, Computer Organization, Operating Systems, Deep Learning, Cybersecurity, Signals and Systems, Electrical Circuits, Machine Learning, and Molecular Cell Biology and Biotechnology
 
-## What I'm Currently Working On
+## What I worked on in the Spring 2025 Semester:
 - **[Implementing and Optimizing Ray Tracing in C++](https://github.com/EC527JilinZhengVarshaSingh/super-raytrace)**
 - **[Exploiting Vulnerabilities in LLMs: A Study on Prompt Injections & Jailbreaking](https://github.com/pzhao123/PAIR)**
 - **[Remote-Controlled Scouting Quadruped with Live Camera Feed and GUI Control](https://github.com/varshasing/ec535-final-project)**
