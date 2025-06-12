@@ -4,11 +4,9 @@
 - 🌱 I'll be taking courses in Cloud Computing, Device Diagnostics and Design, Computational Biology, and Neurotechnology Devices this Fall!
 - 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, High Performance Programming, Embedded Systems, Computer Organization, Operating Systems, Deep Learning, Cybersecurity, Signals and Systems, Electrical Circuits, Machine Learning, and Molecular Cell Biology and Biotechnology
 
-## What I worked on in the Spring 2025 Semester:
-- **[Implementing and Optimizing Ray Tracing in C++](https://github.com/EC527JilinZhengVarshaSingh/super-raytrace)**
-- **[Exploiting Vulnerabilities in LLMs: A Study on Prompt Injections & Jailbreaking](https://github.com/pzhao123/PAIR)**
-- **[Remote-Controlled Scouting Quadruped with Live Camera Feed and GUI Control](https://github.com/varshasing/ec535-final-project)**
-- **[Speech to Emotion Recognition Model](https://github.com/Anish701/EC523-Speech-Emotion-Recognition)**
+## What I am currently working on:
+- Broadridge Developer Experience Team. Details TBA!
+- Software Rendering in C - Learning abuot computer graphics with the goal of learning and building a CPU-based renderer with vertex transformation, shading, and texturing -- all from scratch.
  
 ## 🛠️ Tech Stack  
 💻 **Languages:** C, C++, Python, Verilog, MATLAB, Java, JavaScript  
@@ -16,10 +14,10 @@
 📊 **Tools & Frameworks:** Git, GDB, Bash, TensorFlow, PyTorch, EasyEDA, Fusion360
 
 ## 🚀 Featured Projects  
-🔹 **[Reinforcement Learning Blackjack Agent](https://github.com/varshasing/rl-blackjack-agent)** - Developed a Q-learning Blackjack agent, refining strategies to achieve a **42.1% win rate**.  
+🔹 **[Speech to Emotion Recognition Model](https://github.com/Anish701/EC523-Speech-Emotion-Recognition)** - Classifying 6 emotions in English speaking audio with various Neural Network architectures. **74.3%** test accuracy on best model.  
 🔹 **[Operating Systems C Library](https://github.com/stars/varshasing/lists/operating-systems)** – Developed a **user-mode threading library** and implemented a **FAT file system on a virtual disk**.  
-🔹 **[Simple Shell](https://github.com/varshasing/SimpleShell)** – Developed a **custom Unix shell** supporting redirection, piping, background processes, and process synchronization.  
-🔹 **[MunchMap Odyssey](https://github.com/varshasing/MunchMap-Odyssey)** – Integrated **Yelp API** with **Agile methodologies** for data filtering and front-end interaction. 
+🔹 **[Remote-Controlled Scouting Quadruped with Live Camera Feed and GUI Control](https://github.com/varshasing/ec535-final-project)** - Browser-based remote control system for the HiWonder PuppyPi with environment monitoring for overriding unsafe movement commands.
+🔹 **[Implementing and Optimizing Ray Tracing in C++](https://github.com/EC527JilinZhengVarshaSingh/super-raytrace)** - Optimizing serial Ray Tracing on CPU and GPU. **~2.5x and 200x** speedup compared to serial.
 
 ## 🎓 Work Experience  
 🔬 **Research Assistant (Sharifzadeh Lab, UROP)** – Automating molecule conductivity analysis using Python & Cryo-EM models.  
