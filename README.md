@@ -1,12 +1,11 @@
 # 👋 Hi, I’m @varshasing!
 
-- 🎓 Rising Senior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration)
-- 🌱 I'll be taking courses in Cloud Computing, Device Diagnostics and Design, Computational Biology, and Neurotechnology Devices this Fall!
-- 👩‍🎓 Previous coursework includes: Algorithms and Data Structures, High Performance Programming, Embedded Systems, Computer Organization, Operating Systems, Deep Learning, Cybersecurity, Signals and Systems, Electrical Circuits, Machine Learning, and Molecular Cell Biology and Biotechnology
+- 🎓 Rising Senior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration.
+- 👩‍🎓 Coursework: Algorithms and Data Structures, High Performance Programming, Embedded Systems, Computer Organization, Operating Systems, Deep Learning, Cybersecurity, Signals and Systems, Electrical Circuits, Machine Learning, Cloud Computing
 
 ## What I am currently working on:
-- Broadridge Developer Experience Team. Details TBA!
-- Software Rendering in C - Learning abuot computer graphics with the goal of learning and building a CPU-based renderer with vertex transformation, shading, and texturing -- all from scratch.
+- Broadridge Developer Experience Team. Details TBA.
+- Software Rendering in C: Learning abuot computer graphics with the goal of learning and building a CPU-based renderer with vertex transformation, shading, and texturing -- all from scratch.
  
 ## 🛠️ Tech Stack  
 💻 **Languages:** C, C++, Python, Verilog, MATLAB, Java, JavaScript  
