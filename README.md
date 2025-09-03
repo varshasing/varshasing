@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @varshasing!
 
-- 🎓 Rising Senior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration.
+- 🎓 Senior studying **Computer Engineering** at **Boston University** (Minor in Biomedical Engineering, ML Concentration.
 - 👩‍🎓 Coursework: Algorithms and Data Structures, High Performance Programming, Embedded Systems, Computer Organization, Operating Systems, Deep Learning, Cybersecurity, Signals and Systems, Electrical Circuits, Machine Learning, Cloud Computing
 
 ## What I am currently working on:
-- Broadridge Developer Experience Team. Details TBA.
-- Software Rendering in C: Learning abuot computer graphics with the goal of learning and building a CPU-based renderer with vertex transformation, shading, and texturing -- all from scratch.
+- Broadridge Developer Experience Team.
+- Software Rendering in C: Learning about computer graphics with the goal of learning and building a CPU-based renderer with vertex transformation, shading, and texturing -- all from scratch.
  
 ## 🛠️ Tech Stack  
 💻 **Languages:** C, C++, Python, Verilog, MATLAB, Java, JavaScript  
@@ -20,8 +20,8 @@
 
 ## 🎓 Work Experience  
 🔬 **Research Assistant (Sharifzadeh Lab, UROP)** – Automating molecule conductivity analysis using Python & Cryo-EM models.  
-📚 **Teaching Assistant (Boston University)** – Applied Algorithms and Data Structures (ENG EC330; Fall '24 & *Fall '25*), Embedded Systems (ENG EC535; *Fall '25*), Computer Organization (ENG EC413; Spring '25), Machine Learning (ENG EC414; Spring '25), Introduction to Programming + Programming for Engineers (ENG EC121/122; Fall '23 - Spring '24)  
-🖥️ **Incoming SWE Technology Intern @ Broadridge Financial Solutions - Summer 2025**
+📚 **Teaching Assistant (Boston University)** – Applied Algorithms and Data Structures (ENG EC330; Fall '24 & Fall '25), Embedded Systems (ENG EC535; Fall '25), Computer Organization (ENG EC413; Spring '25), Machine Learning (ENG EC414; Spring '25, Fall '25), Introduction to Programming + Programming for Engineers (ENG EC121/122; Fall '23 - Spring '24)  
+🖥️ ** SWE Technology Intern @ Broadridge Financial Solutions - Summer 2025**
 
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/var-singh)  
